@@ -1,0 +1,124 @@
+h1{
+    height: 50px;
+    text-align: center;
+    background-color: rgb(136, 228, 197);
+}
+nav{
+    height: 20  0px;
+    background-color: #FB9AD1;
+}
+.img{
+    height: 300px;
+    width: 300px;
+   margin-top: 50px;
+}
+.h1{
+    height: 50px;
+    background-color: #FB9AD1;
+}
+.mesec{
+    height: 50px;
+    text-align: center;
+    background-color: rgb(136, 228, 197);
+    font-size: large;
+}
+.head{
+    height: 50px;
+    background-color: rgb(136, 228, 197);
+   
+
+}
+.rhead{
+    height: 50px;
+    background-color: antiquewhite;
+    float: right;
+}
+.myself{
+    text-align: center;
+    height: 150px;
+    background-color: rgb(136, 228, 197);
+    font-size: larger;
+    float: right;
+    
+
+   
+}
+.h22{
+    height: 50px;
+    background-color: rgb(136, 228, 197);
+}
+.para{
+    text-align: center;
+    height: 150px;
+    background-color: rgb(136, 228, 197);
+    font-size: larger;
+
+}
+.ah{
+    height: 50px;
+    background-color: rgb(136, 228, 197);
+}
+.spara{
+    text-align: center;
+    height: 150px;
+    background-color: rgb(136, 228, 197);
+    font-size: larger;
+
+}
+.ah2{
+    height: 50px;
+    background-color: rgb(136, 228, 197);
+}
+.epara{
+    text-align: center;
+    height: 150px;
+    background-color: rgb(136, 228, 197);
+    font-size: larger;
+
+}
+.ssec{
+    background-color: #FB9AD1;
+    float: left;
+
+}
+.ca{
+    font-size: larger;
+}
+.sssec{
+    background-color: #FB9AD1;
+
+}
+.ba{
+    font-size: larger;
+}
+.seec{
+    background-color: #FB9AD1;
+    float: left;
+
+}
+.aa{
+    font-size: larger;
+}
+.sccc{
+    background-color: #FB9AD1;
+   float: left;
+   
+}
+.bb{
+    font-size: larger;
+}
+.suu{
+    background-color: #FB9AD1;
+    float: left;
+
+}
+.cc{
+    font-size: larger;
+}
+.stt{
+    background-color: #FB9AD1;
+    
+}
+.dd{
+    font-size: larger;
+}
